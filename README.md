@@ -4,3 +4,4 @@
 ## Требования
 - Windows
 - Visual Studio Code
+- Lua 5.4.0
